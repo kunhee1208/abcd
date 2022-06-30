@@ -8,3 +8,4 @@
 bb <- function(i){
   print(i)
 }
+usethis::use_git()
